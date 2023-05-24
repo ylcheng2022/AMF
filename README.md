@@ -1,5 +1,5 @@
 # AMF
-Adaptive Multi-Stage Encoder Feature-View Fusion for Deep Graph Representation
+## Adaptive Multi-Stage Encoder Feature-View Fusion for Deep Graph Representation
 
 First, run ./train_dim.py file to train the multi-stage model weights.
 
